@@ -1,3 +1,4 @@
+// A periodic table for fun
 #include <stdio.h>
 #include <string.h>
 
@@ -140,3 +141,4 @@ int main()
     printf("\n\n");
     return 0;
 }
+// Barkev Şarklı
